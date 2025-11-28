@@ -124,7 +124,7 @@
 + https://nginx.org/en/docs/
 + https://www.postgresql.org/docs/
 
-### Linux Basic Commands 🐧
+### Linux Basics Commands 🐧
 
 ` sudo apt update && sudo apt upgrade -y ` <br/>
 ` sudo apt install docker docker-compose -y ` <br/>
